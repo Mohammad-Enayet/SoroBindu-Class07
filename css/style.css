@@ -1,0 +1,30 @@
+
+/* Only Service Section  CSS */
+
+.service-item-one{
+    width: 520px;
+    background-color: #7d4b4b;
+    color: #e7d4d4;
+    text-align: center;
+    padding: 100px 20px;
+    border-radius: 0px 80px 80px 0px ;
+    margin-left: 135px;
+}
+.service-item-two{
+    width: 500px;
+    background-color: #4f7d4b;
+    text-align: center;
+    padding: 100px 20px;
+    color: #e79c98;
+    border-radius: 80px 0px 0px 80px;
+    margin-left: 50%;
+}
+.service-item-three {
+    width: 520px;
+    background-color: #340e9d;
+    color: #b9c2c9;
+    padding: 85px 20px;
+    text-align: center;
+    margin-left: 135px;
+    border-radius: 0px 80px 80px 0px;
+}
